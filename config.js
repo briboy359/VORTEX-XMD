@@ -9,12 +9,12 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&Lkpn0K7I#6x8NCV8H-J7BSVYm54od33ceAPKO_yALZyUWhGf3yDg",
 
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254748138295",
     OWNER_NAME: process.env.OWNER_NAME || "HansTech",
     DEV: process.env.DEV || "255614195217",
 
@@ -22,12 +22,12 @@ module.exports = {
     //         ANTI CALL
     // ==============================
     ANTI_CALL: process.env.ANTI_CALL || "false", // "true" = Warn only, no block
-    ANTI_CALL_BLOCK: process.env.ANTI_CALL_BLOCK || "true", // "true" = 5 warnings then block
+    ANTI_CALL_BLOCK: process.env.ANTI_CALL_BLOCK || "false", // "true" = 5 warnings then block
     AUTO_BLOCK: process.envAUTO_BLOCK || "false",
     // ==============================
     //            MODE
     // ==============================
-    MODE: process.env.MODE || "public",
+    MODE: process.env.MODE || "private",
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 
@@ -41,7 +41,7 @@ module.exports = {
     //          MESSAGES
     // ==============================
     ANTI_DELETE: process.env.ANTI_DELETE || "true",
-    ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "some",
+    ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox",
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
