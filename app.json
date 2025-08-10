@@ -1,8 +1,8 @@
 {
-  "name": "Vortex-Xmd",
+  "name": "BRIAN-Xmd",
   "description": "JavaScript WhatsApp bot made by HansTech",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["Vortex-Xmd"],
+  "keywords": ["BRIAN-Xmd"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "Sticker pack name.",
       "required": false,
-      "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
+      "value": "BOYER-𝐗𝐌𝐃"
     },
     "PREFIX": {
       "description": "Bot command prefix. Do not leave empty or null.",
