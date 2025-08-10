@@ -9,14 +9,14 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "HansTz&Lkpn0K7I#6x8NCV8H-J7BSVYm54od33ceAPKO_yALZyUWhGf3yDg",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&b54ihQaC#qJkgngGr6f9ocoV0L-Br4_Mh-WZU0Oblq5NeWrteDfM",
 
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254748138295",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255614195217",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254717276195",
+    OWNER_NAME: process.env.OWNER_NAME || "BrianTech",
+    DEV: process.env.DEV || "254717276195",
 
     // ==============================
     //         ANTI CALL
@@ -28,8 +28,9 @@ module.exports = {
     //            MODE
     // ==============================
     MODE: process.env.MODE || "private",
-    PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
-    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+    PUBLIC_MODE: process.env.PUBLIC_MODE || "false
+        ",
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 
     // ==============================
     //          CHATBOT
@@ -66,18 +67,18 @@ module.exports = {
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY BRIAN-𝐗𝐌𝐃*",
     
     // ==============================
     //      BOT APPEARANCE
     // ==============================
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
     PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
-    STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
+    BOT_NAME: process.env.BOT_NAME || "BRIAN-𝐗𝐌𝐃",
+    STICKER_NAME: process.env.STICKER_NAME || "BOYER-𝐗𝐌𝐃",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃⚡ IS ALIVE",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTech*",
+    LIVE_MSG: process.env.LIVE_MSG || "> BRIAN-𝐗𝐌𝐃⚡ IS ALIVE",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ BrianTech*",
 
     // ==============================
     //         REACTIONS
